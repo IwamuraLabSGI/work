@@ -124,7 +124,7 @@ def main(args):
     
     "3.コントラスト調整②-積和演算"
     print("積和演算")
-    alpha = 1.0
+    alpha = 1.1
     AVR = [0,0,0]
     CC = [0,0,0]
     beta = [0,0,0]
